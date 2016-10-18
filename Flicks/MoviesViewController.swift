@@ -13,6 +13,7 @@ import MBProgressHUD
 class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate, UIScrollViewDelegate {
     
     @IBOutlet weak var tableView: UITableView!
+    @IBOutlet weak var titleItem: UINavigationItem!
     
     var movies: [NSDictionary]?
     var endpoint: String!

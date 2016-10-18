@@ -59,9 +59,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" id="6Pm-Ay-WaX"/>
+                    <navigationItem key="navigationItem" id="ntH-TV-nC6"/>
                     <connections>
                         <outlet property="tableView" destination="3VI-T7-hON" id="qRI-oE-wXg"/>
+                        <outlet property="titleItem" destination="ntH-TV-nC6" id="rWC-hP-sy1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
