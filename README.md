@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![flicks](https://cloud.githubusercontent.com/assets/7720015/19462325/0a46b284-94ba-11e6-902f-233ae7cd37f2.gif)
+![flicks](https://cloud.githubusercontent.com/assets/7720015/19462893/a9e9c85a-94bd-11e6-9cb3-a7efcf62c567.gif)
 
 GIF created with [LiceCap] (http://www.cockos.com/licecap/).
 
