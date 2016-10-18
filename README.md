@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [x] User can view a list of movies currently playing in theaters. Poster images load asynchronously.
 - [x] User can view movie details by tapping on a cell.
 - [x] User sees loading state while waiting for the API.
-- [x] User sees an error message when there is a network error.
+- [ ] User sees an error message when there is a network error.
 - [x] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![flicks](https://cloud.githubusercontent.com/assets/7720015/19462325/0a46b284-94ba-11e6-902f-233ae7cd37f2.gif)
 
 GIF created with [LiceCap] (http://www.cockos.com/licecap/).
 
